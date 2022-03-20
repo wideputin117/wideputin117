@@ -2,7 +2,8 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on web projects
-- 📫 How to reach me ...
+- 📫 How to reach me ...mail at takermanish7@gmail.com
+- 
 
 <!---
 wideputin117/wideputin117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
