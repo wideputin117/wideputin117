@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manish
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning MONGODB
+- 👀 I’m interested in programming and web technologies and security
+- 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me ...mail at takermanish7@gmail.com
 - 
